@@ -3,4 +3,4 @@ in main
 Hello
 Welcome
 to
-github
+git
